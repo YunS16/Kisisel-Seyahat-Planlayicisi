@@ -69,6 +69,12 @@ Aşağıda projeye ait bazı ekran görüntüleri yer almaktadır:
 
 - Link------> https://youtu.be/IWoJDUiJpg8
 
+🔗 **Canlı Hosting Linki:**  
+[http://95.130.171.20/~st22360859079/](http://95.130.171.20/~st22360859079/login.php)
+
+💻 **GitHub Repo Linki:**  
+[https://github.com/YunS16/Kisisel-Seyahat-Planlayicisi](https://github.com/YunS16/Kisisel-Seyahat-Planlayicisi)
+
 
 ## 📚 Önemli Notlar
 
