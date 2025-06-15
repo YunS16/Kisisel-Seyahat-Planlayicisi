@@ -49,18 +49,26 @@ PhpMyAdmin → SQL sekmesinden çalıştırarak tablo yapısını kolayca kurabi
 
 Aşağıda projeye ait bazı ekran görüntüleri yer almaktadır:
 
->  **Giriş Ekranı**  
-> ![Giriş](img/login.png)
+>  **Register Ekranı**  
+> ![Kayit](img/register.jpg)
+
+>  **Login Ekranı**  
+> ![Giriş](img/login.jpg)
 
 >  **Dashboard**  
-> ![Dashboard](img/dashboard.png)
+> ![Dashboard](img/dashboard.jpg)
 
 >  **Aktivite Sayfası**  
-> ![Aktiviteler](img/activities.png)
+> ![Aktiviteler](img/activities.jpg)
 
 
 
 ---
+
+## Youtube Linki
+
+- Link------> https://youtu.be/IWoJDUiJpg8
+
 
 ## 📚 Önemli Notlar
 
