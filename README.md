@@ -1,5 +1,5 @@
 
-# 🌍 Kişisel Seyahat Planlayıcı Web Uygulaması
+#  Kişisel Seyahat Planlayıcı Web Uygulaması
 
 Bu proje, kullanıcıların kendi seyahat planlarını oluşturmalarına, şehir seçip tarih belirlemelerine ve bu seyahatlere özel aktiviteler ekleyip yönetmelerine olanak tanıyan sade bir PHP tabanlı web uygulamasıdır.
 
@@ -25,7 +25,7 @@ Kullanıcılar bu sistem aracılığıyla:
 -  Giriş Yap / Çıkış Yap
 -  Oturum yönetimi 
 
-## 📦 CRUD Özellikleri
+##  Önemli Özellikler
 
 **Seyahat Planları İçin:**
 - Create: Yeni plan ekleme
