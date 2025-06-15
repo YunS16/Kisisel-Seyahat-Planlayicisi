@@ -40,7 +40,7 @@ Kullanıcılar bu sistem aracılığıyla:
 
 ## 🧾 Veritabanı
 
-Veritabanı oluşturma komutları veritabani.sql dosyasında yer almaktadır.  
+Veritabanı oluşturma komutları seyahat.sql dosyasında yer almaktadır.  
 PhpMyAdmin → SQL sekmesinden çalıştırarak tablo yapısını kolayca kurabilirsiniz.
 
 
